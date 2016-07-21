@@ -1,0 +1,16 @@
+{
+  "title": "Google Image Search",
+  "name": "firefox-google-image-search",
+  "version": "0.0.1",
+  "description": "Search for images via context menu",
+  "main": "index.js",
+  "author": "mephory",
+  "engines": {
+    "firefox": ">=38.0a1",
+    "fennec": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
